@@ -7,3 +7,4 @@ This repo can be used to practice creating PRs.
 
 #Test
 Test
+Master conflict
