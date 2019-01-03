@@ -12,3 +12,5 @@ This repo can be used to practice creating PRs.
 Test
 Master conflict
 Fix me
+
+Hello world!
